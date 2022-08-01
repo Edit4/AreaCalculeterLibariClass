@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeAnalysis.CSharp.NetAnalyzers">
+      <HintPath>..\..\..\..\..\..\Program Files\dotnet\sdk\5.0.301\Sdks\Microsoft.NET.Sdk\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.NetAnalyzers">
+      <HintPath>..\..\..\..\..\..\Program Files\dotnet\sdk\5.0.301\Sdks\Microsoft.NET.Sdk\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll</HintPath>
+    </Reference>
+    <Reference Include="xunit.analyzers">
+      <HintPath>..\..\..\..\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

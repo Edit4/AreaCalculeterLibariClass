@@ -1,0 +1,108 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AreaCalculetor/1.0.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.CSharp.NetAnalyzers": "5.0.4.22903",
+          "Microsoft.CodeAnalysis.NetAnalyzers": "5.0.4.22903",
+          "xunit.analyzers": "0.10.0.0"
+        },
+        "runtime": {
+          "AreaCalculetor.dll": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.CSharp.NetAnalyzers/5.0.4.22903": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll": {
+            "assemblyVersion": "5.0.4.22903",
+            "fileVersion": "5.0.4.22903"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.NetAnalyzers/5.0.4.22903": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.NetAnalyzers.dll": {
+            "assemblyVersion": "5.0.4.22903",
+            "fileVersion": "5.0.4.22903"
+          }
+        },
+        "resources": {
+          "cs/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "cs"
+          },
+          "de/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "de"
+          },
+          "es/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "es"
+          },
+          "fr/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "fr"
+          },
+          "it/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "it"
+          },
+          "ja/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "ko"
+          },
+          "pl/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "pl"
+          },
+          "pt-BR/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "ru/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "ru"
+          },
+          "tr/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "tr"
+          },
+          "zh-Hans/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "zh-Hant/Microsoft.CodeAnalysis.NetAnalyzers.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "xunit.analyzers/0.10.0.0": {
+        "runtime": {
+          "xunit.analyzers.dll": {
+            "assemblyVersion": "0.10.0.0",
+            "fileVersion": "0.10.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaCalculetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.CSharp.NetAnalyzers/5.0.4.22903": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.NetAnalyzers/5.0.4.22903": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "xunit.analyzers/0.10.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
